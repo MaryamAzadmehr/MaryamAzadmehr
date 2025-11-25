@@ -226,17 +226,7 @@ timeline
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📌 Pinned Repositories
 
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaryamAzadmehr&repo=awesome-flutter-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/MaryamAzadmehr/awesome-flutter-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaryamAzadmehr&repo=laravel-api-starter&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/MaryamAzadmehr/laravel-api-starter)
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💡 Random Dev Quote
 
