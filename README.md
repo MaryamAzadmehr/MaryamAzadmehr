@@ -8,8 +8,9 @@
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
+</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
 
@@ -33,8 +34,9 @@ me.say_hi()
 
 <br clear="both">
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
+</div>
 
 ## 🚀 Tech Stack & Skills
 
@@ -71,58 +73,31 @@ me.say_hi()
 </tr>
 </table>
 
-### 🛠️ Tools & Technologies
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-<br>VS Code
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
-<br>PostgreSQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
-<br>Docker
-</td>
-</tr>
-</table>
-
-
-
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
+</div>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MaryamAzadmehr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&ring_color=F85D7F" alt="Maryam's GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MaryamAzadmehr&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&ring_color=F85D7F&cache_seconds=1800" alt="Maryam's GitHub Stats"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=MaryamAzadmehr&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt="Maryam's Streak Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=MaryamAzadmehr&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&date_format=j%20M%5B%20Y%5D" alt="Maryam's Streak Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamAzadmehr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamAzadmehr&layout=compact&langs_count=8&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&cache_seconds=1800" alt="Top Languages"/>
+
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=MaryamAzadmehr&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Contributed Repo"/>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
+</div>
 
 ## 🏆 GitHub Trophies
 
@@ -132,19 +107,21 @@ me.say_hi()
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
+</div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Maryam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaryamAzadmehr&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Maryam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaryamAzadmehr&custom_title=Maryam's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
+</div>
 
 ## 🎯 Current Focus
 
@@ -174,8 +151,9 @@ mindmap
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
+</div>
 
 ## 💼 Experience Timeline
 
@@ -198,8 +176,9 @@ timeline
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
+</div>
 
 ## 📫 Connect With Me
 
@@ -212,8 +191,9 @@ timeline
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
+</div>
 
 ## 🐍 Contribution Snake
 
@@ -223,8 +203,9 @@ timeline
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
+</div>
 
 
 
@@ -236,8 +217,9 @@ timeline
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
+</div>
 
 ## 🎮 Fun Facts
 
@@ -258,8 +240,9 @@ const funFacts = {
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
+</div>
 
 ## 👀 Profile Views
 
