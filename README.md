@@ -79,31 +79,7 @@ me.say_hi()
   <img src="https://placehold.co/1000x1/FFC0CB/FFC0CB.png" width="100%" alt="divider"/>
 </div>
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MaryamAzadmehr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&ring_color=F85D7F&count_private=true" alt="Maryam's GitHub Stats" />
-</a>
-<a href="https://git.io/streak-stats">
-  <img width="48%" src="https://streak-stats.demolab.com?user=MaryamAzadmehr&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
-</a>
-
-<br/>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamAzadmehr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=MaryamAzadmehr&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Contributed Repo"/>
-</a>
-
-</div>
-
-<div align="center">
-  <img src="https://placehold.co/1000x1/FFC0CB/FFC0CB.png" width="100%" alt="divider"/>
-</div>
 
 ## 🏆 GitHub Trophies
 
@@ -250,13 +226,7 @@ const funFacts = {
   <img src="https://placehold.co/1000x1/FFC0CB/FFC0CB.png" width="100%" alt="divider"/>
 </div>
 
-## 👀 Profile Views
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=MaryamAzadmehr&label=Profile%20Views&color=F85D7F&style=for-the-badge)
-
-</div>
 
 <!-- Animated Footer -->
 <div align="center">
