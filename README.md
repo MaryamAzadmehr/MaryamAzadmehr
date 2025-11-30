@@ -105,37 +105,7 @@ me.say_hi()
   <img src="https://placehold.co/1000x1/FFC0CB/FFC0CB.png" width="100%" alt="divider"/>
 </div>
 
-## 🎯 Current Focus
 
-<div align="center">
-
-```mermaid
-mindmap
-  root((Maryam))
-    Backend Development
-      PHP
-      Laravel
-      Python
-      Django
-    Mobile Development
-      Flutter
-      Dart
-      Cross Platform Apps
-    DevOps
-      Docker
-      CI/CD
-      Automation
-    Learning
-      New Technologies
-      Best Practices
-      Clean Code
-```
-
-</div>
-
-<div align="center">
-  <img src="https://placehold.co/1000x1/FFC0CB/FFC0CB.png" width="100%" alt="divider"/>
-</div>
 
 ## 💼 Experience Timeline
 
